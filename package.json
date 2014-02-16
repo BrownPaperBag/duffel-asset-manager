@@ -14,7 +14,6 @@
     "url": "https://github.com/BrownPaperBag/duffel-asset-manager"
   },
   "dependencies": {
-    "duffel-visor": "0.0.x",
     "async": "0.2.x",
     "express": "3.3.x",
     "nunjucks": "git://github.com/jlongster/nunjucks.git#master",
