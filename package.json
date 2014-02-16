@@ -1,0 +1,24 @@
+{
+  "name": "duffel-asset-manager",
+  "author": "Michael Robinson <mike@pagesofinterest.net>",
+  "version": "0.0.7",
+  "description": "Provides easier management of shared JS & CSS assets across duffel modules",
+  "contributors": [
+    {
+      "name": "Michael Robinson",
+      "email": "mike@pagesofinterest.net"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrownPaperBag/duffel-asset-manager"
+  },
+  "dependencies": {
+    "duffel-visor": "0.0.x",
+    "async": "0.2.x",
+    "express": "3.3.x",
+    "nunjucks": "git://github.com/jlongster/nunjucks.git#master",
+    "assetify": "0.8.x",
+    "connectr": "0.0.5"
+  }
+}
