@@ -1,7 +1,7 @@
 {
   "name": "duffel-asset-manager",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Provides easier management of shared JS & CSS assets across duffel modules. Wraps assetify.",
   "contributors": [
     {
